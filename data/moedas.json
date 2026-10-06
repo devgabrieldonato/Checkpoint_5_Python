@@ -1,0 +1,3246 @@
+{
+  "source": "https://economia.awesomeapi.com.br/xml/available",
+  "description": "Pares de moedas disponibilizados pela AwesomeAPI.",
+  "pairs": [
+    {
+      "code": "AED-BRL",
+      "base": "AED",
+      "quote": "BRL",
+      "name": "Dirham dos Emirados/Real Brasileiro"
+    },
+    {
+      "code": "AED-EUR",
+      "base": "AED",
+      "quote": "EUR",
+      "name": "Dirham dos Emirados/Euro"
+    },
+    {
+      "code": "AED-USD",
+      "base": "AED",
+      "quote": "USD",
+      "name": "Dirham dos Emirados/Dólar Americano"
+    },
+    {
+      "code": "AFN-USD",
+      "base": "AFN",
+      "quote": "USD",
+      "name": "Afghani do Afeganistão/Dólar Americano"
+    },
+    {
+      "code": "ANG-USD",
+      "base": "ANG",
+      "quote": "USD",
+      "name": "Guilder das Antilhas/Dólar Americano"
+    },
+    {
+      "code": "ARS-BRL",
+      "base": "ARS",
+      "quote": "BRL",
+      "name": "Peso Argentino/Real Brasileiro"
+    },
+    {
+      "code": "ARS-CLP",
+      "base": "ARS",
+      "quote": "CLP",
+      "name": "Peso Argentino/Peso Chileno"
+    },
+    {
+      "code": "ARS-EUR",
+      "base": "ARS",
+      "quote": "EUR",
+      "name": "Peso Argentino/Euro"
+    },
+    {
+      "code": "ARS-PEN",
+      "base": "ARS",
+      "quote": "PEN",
+      "name": "Peso Argentino/Sol do Peru"
+    },
+    {
+      "code": "ARS-USD",
+      "base": "ARS",
+      "quote": "USD",
+      "name": "Peso Argentino/Dólar Americano"
+    },
+    {
+      "code": "AUD-BRL",
+      "base": "AUD",
+      "quote": "BRL",
+      "name": "Dólar Australiano/Real Brasileiro"
+    },
+    {
+      "code": "AUD-BRLPTAX",
+      "base": "AUD",
+      "quote": "BRLPTAX",
+      "name": "Dólar Australiano/Real Brasileiro"
+    },
+    {
+      "code": "AUD-CHF",
+      "base": "AUD",
+      "quote": "CHF",
+      "name": "Dólar Australiano/Franco Suíço"
+    },
+    {
+      "code": "AUD-EUR",
+      "base": "AUD",
+      "quote": "EUR",
+      "name": "Dólar Australiano/Euro"
+    },
+    {
+      "code": "AUD-JPY",
+      "base": "AUD",
+      "quote": "JPY",
+      "name": "Dólar Australiano/Iene Japonês"
+    },
+    {
+      "code": "AUD-NZD",
+      "base": "AUD",
+      "quote": "NZD",
+      "name": "Dólar Australiano/Dólar Neozelandês"
+    },
+    {
+      "code": "AUD-USD",
+      "base": "AUD",
+      "quote": "USD",
+      "name": "Dólar Australiano/Dólar Americano"
+    },
+    {
+      "code": "BHD-EUR",
+      "base": "BHD",
+      "quote": "EUR",
+      "name": "Dinar do Bahrein/Euro"
+    },
+    {
+      "code": "BNB-BRL",
+      "base": "BNB",
+      "quote": "BRL",
+      "name": "Binance Coin/Real Brasileiro"
+    },
+    {
+      "code": "BNB-EUR",
+      "base": "BNB",
+      "quote": "EUR",
+      "name": "Binance Coin/Euro"
+    },
+    {
+      "code": "BNB-USD",
+      "base": "BNB",
+      "quote": "USD",
+      "name": "Binance Coin/Dólar Americano"
+    },
+    {
+      "code": "BOB-BRL",
+      "base": "BOB",
+      "quote": "BRL",
+      "name": "Boliviano/Real Brasileiro"
+    },
+    {
+      "code": "BOB-USD",
+      "base": "BOB",
+      "quote": "USD",
+      "name": "Boliviano/Dólar Americano"
+    },
+    {
+      "code": "BRETT-BRL",
+      "base": "BRETT",
+      "quote": "BRL",
+      "name": "Brett/Real Brasileiro"
+    },
+    {
+      "code": "BRETT-EUR",
+      "base": "BRETT",
+      "quote": "EUR",
+      "name": "Brett/Euro"
+    },
+    {
+      "code": "BRETT-USD",
+      "base": "BRETT",
+      "quote": "USD",
+      "name": "Brett/Dólar Americano"
+    },
+    {
+      "code": "BRL-AED",
+      "base": "BRL",
+      "quote": "AED",
+      "name": "Real Brasileiro/Dirham dos Emirados"
+    },
+    {
+      "code": "BRL-ARS",
+      "base": "BRL",
+      "quote": "ARS",
+      "name": "Real Brasileiro/Peso Argentino"
+    },
+    {
+      "code": "BRL-AUD",
+      "base": "BRL",
+      "quote": "AUD",
+      "name": "Real Brasileiro/Dólar Australiano"
+    },
+    {
+      "code": "BRL-BBD",
+      "base": "BRL",
+      "quote": "BBD",
+      "name": "Real Brasileiro/Dólar de Barbados"
+    },
+    {
+      "code": "BRL-BHD",
+      "base": "BRL",
+      "quote": "BHD",
+      "name": "Real Brasileiro/Dinar do Bahrein"
+    },
+    {
+      "code": "BRL-BOB",
+      "base": "BRL",
+      "quote": "BOB",
+      "name": "Real Brasileiro/Boliviano"
+    },
+    {
+      "code": "BRL-CAD",
+      "base": "BRL",
+      "quote": "CAD",
+      "name": "Real Brasileiro/Dólar Canadense"
+    },
+    {
+      "code": "BRL-CHF",
+      "base": "BRL",
+      "quote": "CHF",
+      "name": "Real Brasileiro/Franco Suíço"
+    },
+    {
+      "code": "BRL-CLP",
+      "base": "BRL",
+      "quote": "CLP",
+      "name": "Real Brasileiro/Peso Chileno"
+    },
+    {
+      "code": "BRL-CNY",
+      "base": "BRL",
+      "quote": "CNY",
+      "name": "Real Brasileiro/Yuan Chinês"
+    },
+    {
+      "code": "BRL-COP",
+      "base": "BRL",
+      "quote": "COP",
+      "name": "Real Brasileiro/Peso Colombiano"
+    },
+    {
+      "code": "BRL-CRC",
+      "base": "BRL",
+      "quote": "CRC",
+      "name": "Real Brasileiro/Colón Costarriquenho"
+    },
+    {
+      "code": "BRL-CZK",
+      "base": "BRL",
+      "quote": "CZK",
+      "name": "Real Brasileiro/Coroa Checa"
+    },
+    {
+      "code": "BRL-DKK",
+      "base": "BRL",
+      "quote": "DKK",
+      "name": "Real Brasileiro/Coroa Dinamarquesa"
+    },
+    {
+      "code": "BRL-EGP",
+      "base": "BRL",
+      "quote": "EGP",
+      "name": "Real Brasileiro/Libra Egípcia"
+    },
+    {
+      "code": "BRL-EUR",
+      "base": "BRL",
+      "quote": "EUR",
+      "name": "Real Brasileiro/Euro"
+    },
+    {
+      "code": "BRL-GBP",
+      "base": "BRL",
+      "quote": "GBP",
+      "name": "Real Brasileiro/Libra Esterlina"
+    },
+    {
+      "code": "BRL-HKD",
+      "base": "BRL",
+      "quote": "HKD",
+      "name": "Real Brasileiro/Dólar de Hong Kong"
+    },
+    {
+      "code": "BRL-HUF",
+      "base": "BRL",
+      "quote": "HUF",
+      "name": "Real Brasileiro/Florim Húngaro"
+    },
+    {
+      "code": "BRL-IDR",
+      "base": "BRL",
+      "quote": "IDR",
+      "name": "Real Brasileiro/Rupia Indonésia"
+    },
+    {
+      "code": "BRL-ILS",
+      "base": "BRL",
+      "quote": "ILS",
+      "name": "Real Brasileiro/Novo Shekel Israelense"
+    },
+    {
+      "code": "BRL-INR",
+      "base": "BRL",
+      "quote": "INR",
+      "name": "Real Brasileiro/Rúpia Indiana"
+    },
+    {
+      "code": "BRL-ISK",
+      "base": "BRL",
+      "quote": "ISK",
+      "name": "Real Brasileiro/Coroa Islandesa"
+    },
+    {
+      "code": "BRL-JMD",
+      "base": "BRL",
+      "quote": "JMD",
+      "name": "Real Brasileiro/Dólar Jamaicano"
+    },
+    {
+      "code": "BRL-JOD",
+      "base": "BRL",
+      "quote": "JOD",
+      "name": "Real Brasileiro/Dinar Jordaniano"
+    },
+    {
+      "code": "BRL-JPY",
+      "base": "BRL",
+      "quote": "JPY",
+      "name": "Real Brasileiro/Iene Japonês"
+    },
+    {
+      "code": "BRL-KES",
+      "base": "BRL",
+      "quote": "KES",
+      "name": "Real Brasileiro/Shilling Queniano"
+    },
+    {
+      "code": "BRL-KRW",
+      "base": "BRL",
+      "quote": "KRW",
+      "name": "Real Brasileiro/Won Sul-Coreano"
+    },
+    {
+      "code": "BRL-LBP",
+      "base": "BRL",
+      "quote": "LBP",
+      "name": "Real Brasileiro/Libra Libanesa"
+    },
+    {
+      "code": "BRL-LKR",
+      "base": "BRL",
+      "quote": "LKR",
+      "name": "Real Brasileiro/Rúpia de Sri Lanka"
+    },
+    {
+      "code": "BRL-MAD",
+      "base": "BRL",
+      "quote": "MAD",
+      "name": "Real Brasileiro/Dirham Marroquino"
+    },
+    {
+      "code": "BRL-MXN",
+      "base": "BRL",
+      "quote": "MXN",
+      "name": "Real Brasileiro/Peso Mexicano"
+    },
+    {
+      "code": "BRL-MYR",
+      "base": "BRL",
+      "quote": "MYR",
+      "name": "Real Brasileiro/Ringgit Malaio"
+    },
+    {
+      "code": "BRL-NAD",
+      "base": "BRL",
+      "quote": "NAD",
+      "name": "Real Brasileiro/Dólar Namíbio"
+    },
+    {
+      "code": "BRL-NOK",
+      "base": "BRL",
+      "quote": "NOK",
+      "name": "Real Brasileiro/Coroa Norueguesa"
+    },
+    {
+      "code": "BRL-NPR",
+      "base": "BRL",
+      "quote": "NPR",
+      "name": "Real Brasileiro/Rúpia Nepalesa"
+    },
+    {
+      "code": "BRL-NZD",
+      "base": "BRL",
+      "quote": "NZD",
+      "name": "Real Brasileiro/Dólar Neozelandês"
+    },
+    {
+      "code": "BRL-OMR",
+      "base": "BRL",
+      "quote": "OMR",
+      "name": "Real Brasileiro/Rial Omanense"
+    },
+    {
+      "code": "BRL-PAB",
+      "base": "BRL",
+      "quote": "PAB",
+      "name": "Real Brasileiro/Balboa Panamenho"
+    },
+    {
+      "code": "BRL-PEN",
+      "base": "BRL",
+      "quote": "PEN",
+      "name": "Real Brasileiro/Sol do Peru"
+    },
+    {
+      "code": "BRL-PHP",
+      "base": "BRL",
+      "quote": "PHP",
+      "name": "Real Brasileiro/Peso Filipino"
+    },
+    {
+      "code": "BRL-PKR",
+      "base": "BRL",
+      "quote": "PKR",
+      "name": "Real Brasileiro/Rúpia Paquistanesa"
+    },
+    {
+      "code": "BRL-PLN",
+      "base": "BRL",
+      "quote": "PLN",
+      "name": "Real Brasileiro/Zlóti Polonês"
+    },
+    {
+      "code": "BRL-PYG",
+      "base": "BRL",
+      "quote": "PYG",
+      "name": "Real Brasileiro/Guarani Paraguaio"
+    },
+    {
+      "code": "BRL-QAR",
+      "base": "BRL",
+      "quote": "QAR",
+      "name": "Real Brasileiro/Rial Catarense"
+    },
+    {
+      "code": "BRL-RON",
+      "base": "BRL",
+      "quote": "RON",
+      "name": "Real Brasileiro/Leu Romeno"
+    },
+    {
+      "code": "BRL-RSD",
+      "base": "BRL",
+      "quote": "RSD",
+      "name": "Real Brasileiro/Dinar Sérvio"
+    },
+    {
+      "code": "BRL-RUB",
+      "base": "BRL",
+      "quote": "RUB",
+      "name": "Real Brasileiro/Rublo Russo"
+    },
+    {
+      "code": "BRL-SAR",
+      "base": "BRL",
+      "quote": "SAR",
+      "name": "Real Brasileiro/Riyal Saudita"
+    },
+    {
+      "code": "BRL-SEK",
+      "base": "BRL",
+      "quote": "SEK",
+      "name": "Real Brasileiro/Coroa Sueca"
+    },
+    {
+      "code": "BRL-SGD",
+      "base": "BRL",
+      "quote": "SGD",
+      "name": "Real Brasileiro/Dólar de Cingapura"
+    },
+    {
+      "code": "BRL-THB",
+      "base": "BRL",
+      "quote": "THB",
+      "name": "Real Brasileiro/Baht Tailandês"
+    },
+    {
+      "code": "BRL-TRY",
+      "base": "BRL",
+      "quote": "TRY",
+      "name": "Real Brasileiro/Nova Lira Turca"
+    },
+    {
+      "code": "BRL-TWD",
+      "base": "BRL",
+      "quote": "TWD",
+      "name": "Real Brasileiro/Dólar Taiuanês"
+    },
+    {
+      "code": "BRL-USD",
+      "base": "BRL",
+      "quote": "USD",
+      "name": "Real Brasileiro/Dólar Americano"
+    },
+    {
+      "code": "BRL-UYU",
+      "base": "BRL",
+      "quote": "UYU",
+      "name": "Real Brasileiro/Peso Uruguaio"
+    },
+    {
+      "code": "BRL-VEF",
+      "base": "BRL",
+      "quote": "VEF",
+      "name": "Real Brasileiro/Bolívar Venezuelano"
+    },
+    {
+      "code": "BRL-XAF",
+      "base": "BRL",
+      "quote": "XAF",
+      "name": "Real Brasileiro/Franco CFA Central"
+    },
+    {
+      "code": "BRL-XAG",
+      "base": "BRL",
+      "quote": "XAG",
+      "name": "Real Brasileiro/Prata Spot"
+    },
+    {
+      "code": "BRL-XAU",
+      "base": "BRL",
+      "quote": "XAU",
+      "name": "Real Brasileiro/Ouro"
+    },
+    {
+      "code": "BRL-XCD",
+      "base": "BRL",
+      "quote": "XCD",
+      "name": "Real Brasileiro/Dólar do Caribe Oriental"
+    },
+    {
+      "code": "BRL-XOF",
+      "base": "BRL",
+      "quote": "XOF",
+      "name": "Real Brasileiro/Franco CFA Ocidental"
+    },
+    {
+      "code": "BRL-ZAR",
+      "base": "BRL",
+      "quote": "ZAR",
+      "name": "Real Brasileiro/Rand Sul-Africano"
+    },
+    {
+      "code": "BTC-BRL",
+      "base": "BTC",
+      "quote": "BRL",
+      "name": "Bitcoin/Real Brasileiro"
+    },
+    {
+      "code": "BTC-EUR",
+      "base": "BTC",
+      "quote": "EUR",
+      "name": "Bitcoin/Euro"
+    },
+    {
+      "code": "BTC-USD",
+      "base": "BTC",
+      "quote": "USD",
+      "name": "Bitcoin/Dólar Americano"
+    },
+    {
+      "code": "BYN-EUR",
+      "base": "BYN",
+      "quote": "EUR",
+      "name": "Rublo Bielorrusso/Euro"
+    },
+    {
+      "code": "BYN-USD",
+      "base": "BYN",
+      "quote": "USD",
+      "name": "Rublo Bielorrusso/Dólar Americano"
+    },
+    {
+      "code": "CAD-BRL",
+      "base": "CAD",
+      "quote": "BRL",
+      "name": "Dólar Canadense/Real Brasileiro"
+    },
+    {
+      "code": "CAD-BRLPTAX",
+      "base": "CAD",
+      "quote": "BRLPTAX",
+      "name": "Dólar Canadense/Real Brasileiro"
+    },
+    {
+      "code": "CAD-EUR",
+      "base": "CAD",
+      "quote": "EUR",
+      "name": "Dólar Canadense/Euro"
+    },
+    {
+      "code": "CAD-JPY",
+      "base": "CAD",
+      "quote": "JPY",
+      "name": "Dólar Canadense/Iene Japonês"
+    },
+    {
+      "code": "CAD-UAH",
+      "base": "CAD",
+      "quote": "UAH",
+      "name": "Dólar Canadense/Hryvinia Ucraniana"
+    },
+    {
+      "code": "CAD-USD",
+      "base": "CAD",
+      "quote": "USD",
+      "name": "Dólar Canadense/Dólar Americano"
+    },
+    {
+      "code": "CHF-BRL",
+      "base": "CHF",
+      "quote": "BRL",
+      "name": "Franco Suíço/Real Brasileiro"
+    },
+    {
+      "code": "CHF-BRLPTAX",
+      "base": "CHF",
+      "quote": "BRLPTAX",
+      "name": "Franco Suíço/Real Brasileiro"
+    },
+    {
+      "code": "CHF-EUR",
+      "base": "CHF",
+      "quote": "EUR",
+      "name": "Franco Suíço/Euro"
+    },
+    {
+      "code": "CHF-JPY",
+      "base": "CHF",
+      "quote": "JPY",
+      "name": "Franco Suíço/Iene Japonês"
+    },
+    {
+      "code": "CHF-USD",
+      "base": "CHF",
+      "quote": "USD",
+      "name": "Franco Suíço/Dólar Americano"
+    },
+    {
+      "code": "CLP-BOB",
+      "base": "CLP",
+      "quote": "BOB",
+      "name": "Peso Chileno/Boliviano"
+    },
+    {
+      "code": "CLP-BRL",
+      "base": "CLP",
+      "quote": "BRL",
+      "name": "Peso Chileno/Real Brasileiro"
+    },
+    {
+      "code": "CLP-COP",
+      "base": "CLP",
+      "quote": "COP",
+      "name": "Peso Chileno/Peso Colombiano"
+    },
+    {
+      "code": "CLP-EUR",
+      "base": "CLP",
+      "quote": "EUR",
+      "name": "Peso Chileno/Euro"
+    },
+    {
+      "code": "CLP-USD",
+      "base": "CLP",
+      "quote": "USD",
+      "name": "Peso Chileno/Dólar Americano"
+    },
+    {
+      "code": "CNY-BRL",
+      "base": "CNY",
+      "quote": "BRL",
+      "name": "Yuan Chinês/Real Brasileiro"
+    },
+    {
+      "code": "CNY-EUR",
+      "base": "CNY",
+      "quote": "EUR",
+      "name": "Yuan Chinês/Euro"
+    },
+    {
+      "code": "CNY-JPY",
+      "base": "CNY",
+      "quote": "JPY",
+      "name": "Yuan Chinês/Iene Japonês"
+    },
+    {
+      "code": "CNY-USD",
+      "base": "CNY",
+      "quote": "USD",
+      "name": "Yuan Chinês/Dólar Americano"
+    },
+    {
+      "code": "COP-BRL",
+      "base": "COP",
+      "quote": "BRL",
+      "name": "Peso Colombiano/Real Brasileiro"
+    },
+    {
+      "code": "COP-CLP",
+      "base": "COP",
+      "quote": "CLP",
+      "name": "Peso Colombiano/Peso Chileno"
+    },
+    {
+      "code": "COP-USD",
+      "base": "COP",
+      "quote": "USD",
+      "name": "Peso Colombiano/Dólar Americano"
+    },
+    {
+      "code": "CRC-BRL",
+      "base": "CRC",
+      "quote": "BRL",
+      "name": "Colón Costarriquenho/Real Brasileiro"
+    },
+    {
+      "code": "CRC-USD",
+      "base": "CRC",
+      "quote": "USD",
+      "name": "Colón Costarriquenho/Dólar Americano"
+    },
+    {
+      "code": "CZK-BRL",
+      "base": "CZK",
+      "quote": "BRL",
+      "name": "Coroa Checa/Real Brasileiro"
+    },
+    {
+      "code": "CZK-USD",
+      "base": "CZK",
+      "quote": "USD",
+      "name": "Coroa Checa/Dólar Americano"
+    },
+    {
+      "code": "DKK-BRL",
+      "base": "DKK",
+      "quote": "BRL",
+      "name": "Coroa Dinamarquesa/Real Brasileiro"
+    },
+    {
+      "code": "DKK-BRLPTAX",
+      "base": "DKK",
+      "quote": "BRLPTAX",
+      "name": "Coroa Dinamarquesa/Real Brasileiro"
+    },
+    {
+      "code": "DKK-EUR",
+      "base": "DKK",
+      "quote": "EUR",
+      "name": "Coroa Dinamarquesa/Euro"
+    },
+    {
+      "code": "DKK-USD",
+      "base": "DKK",
+      "quote": "USD",
+      "name": "Coroa Dinamarquesa/Dólar Americano"
+    },
+    {
+      "code": "DOGE-BRL",
+      "base": "DOGE",
+      "quote": "BRL",
+      "name": "Dogecoin/Real Brasileiro"
+    },
+    {
+      "code": "DOGE-EUR",
+      "base": "DOGE",
+      "quote": "EUR",
+      "name": "Dogecoin/Euro"
+    },
+    {
+      "code": "DOGE-USD",
+      "base": "DOGE",
+      "quote": "USD",
+      "name": "Dogecoin/Dólar Americano"
+    },
+    {
+      "code": "EGP-BRL",
+      "base": "EGP",
+      "quote": "BRL",
+      "name": "Libra Egípcia/Real Brasileiro"
+    },
+    {
+      "code": "EGP-EUR",
+      "base": "EGP",
+      "quote": "EUR",
+      "name": "Libra Egípcia/Euro"
+    },
+    {
+      "code": "EGP-USD",
+      "base": "EGP",
+      "quote": "USD",
+      "name": "Libra Egípcia/Dólar Americano"
+    },
+    {
+      "code": "ETH-BRL",
+      "base": "ETH",
+      "quote": "BRL",
+      "name": "Ethereum/Real Brasileiro"
+    },
+    {
+      "code": "ETH-EUR",
+      "base": "ETH",
+      "quote": "EUR",
+      "name": "Ethereum/Euro"
+    },
+    {
+      "code": "ETH-USD",
+      "base": "ETH",
+      "quote": "USD",
+      "name": "Ethereum/Dólar Americano"
+    },
+    {
+      "code": "EUR-AED",
+      "base": "EUR",
+      "quote": "AED",
+      "name": "Euro/Dirham dos Emirados"
+    },
+    {
+      "code": "EUR-AFN",
+      "base": "EUR",
+      "quote": "AFN",
+      "name": "Euro/Afghani do Afeganistão"
+    },
+    {
+      "code": "EUR-ALL",
+      "base": "EUR",
+      "quote": "ALL",
+      "name": "Euro/Lek Albanês"
+    },
+    {
+      "code": "EUR-AMD",
+      "base": "EUR",
+      "quote": "AMD",
+      "name": "Euro/Dram Armênio"
+    },
+    {
+      "code": "EUR-ANG",
+      "base": "EUR",
+      "quote": "ANG",
+      "name": "Euro/Guilder das Antilhas"
+    },
+    {
+      "code": "EUR-AOA",
+      "base": "EUR",
+      "quote": "AOA",
+      "name": "Euro/Kwanza Angolano"
+    },
+    {
+      "code": "EUR-ARS",
+      "base": "EUR",
+      "quote": "ARS",
+      "name": "Euro/Peso Argentino"
+    },
+    {
+      "code": "EUR-AUD",
+      "base": "EUR",
+      "quote": "AUD",
+      "name": "Euro/Dólar Australiano"
+    },
+    {
+      "code": "EUR-AZN",
+      "base": "EUR",
+      "quote": "AZN",
+      "name": "Euro/Manat Azeri"
+    },
+    {
+      "code": "EUR-BAM",
+      "base": "EUR",
+      "quote": "BAM",
+      "name": "Euro/Marco Conversível"
+    },
+    {
+      "code": "EUR-BBD",
+      "base": "EUR",
+      "quote": "BBD",
+      "name": "Euro/Dólar de Barbados"
+    },
+    {
+      "code": "EUR-BDT",
+      "base": "EUR",
+      "quote": "BDT",
+      "name": "Euro/Taka de Bangladesh"
+    },
+    {
+      "code": "EUR-BGN",
+      "base": "EUR",
+      "quote": "BGN",
+      "name": "Euro/Lev Búlgaro"
+    },
+    {
+      "code": "EUR-BHD",
+      "base": "EUR",
+      "quote": "BHD",
+      "name": "Euro/Dinar do Bahrein"
+    },
+    {
+      "code": "EUR-BIF",
+      "base": "EUR",
+      "quote": "BIF",
+      "name": "Euro/Franco Burundinense"
+    },
+    {
+      "code": "EUR-BND",
+      "base": "EUR",
+      "quote": "BND",
+      "name": "Euro/Dólar de Brunei"
+    },
+    {
+      "code": "EUR-BOB",
+      "base": "EUR",
+      "quote": "BOB",
+      "name": "Euro/Boliviano"
+    },
+    {
+      "code": "EUR-BRL",
+      "base": "EUR",
+      "quote": "BRL",
+      "name": "Euro/Real Brasileiro"
+    },
+    {
+      "code": "EUR-BRLPTAX",
+      "base": "EUR",
+      "quote": "BRLPTAX",
+      "name": "Euro/Real Brasileiro"
+    },
+    {
+      "code": "EUR-BRLT",
+      "base": "EUR",
+      "quote": "BRLT",
+      "name": "Euro/Real Brasileiro Turismo"
+    },
+    {
+      "code": "EUR-BSD",
+      "base": "EUR",
+      "quote": "BSD",
+      "name": "Euro/Dólar das Bahamas"
+    },
+    {
+      "code": "EUR-BWP",
+      "base": "EUR",
+      "quote": "BWP",
+      "name": "Euro/Pula de Botswana"
+    },
+    {
+      "code": "EUR-BYN",
+      "base": "EUR",
+      "quote": "BYN",
+      "name": "Euro/Rublo Bielorrusso"
+    },
+    {
+      "code": "EUR-BZD",
+      "base": "EUR",
+      "quote": "BZD",
+      "name": "Euro/Dólar de Belize"
+    },
+    {
+      "code": "EUR-CAD",
+      "base": "EUR",
+      "quote": "CAD",
+      "name": "Euro/Dólar Canadense"
+    },
+    {
+      "code": "EUR-CHF",
+      "base": "EUR",
+      "quote": "CHF",
+      "name": "Euro/Franco Suíço"
+    },
+    {
+      "code": "EUR-CLP",
+      "base": "EUR",
+      "quote": "CLP",
+      "name": "Euro/Peso Chileno"
+    },
+    {
+      "code": "EUR-CNY",
+      "base": "EUR",
+      "quote": "CNY",
+      "name": "Euro/Yuan Chinês"
+    },
+    {
+      "code": "EUR-COP",
+      "base": "EUR",
+      "quote": "COP",
+      "name": "Euro/Peso Colombiano"
+    },
+    {
+      "code": "EUR-CRC",
+      "base": "EUR",
+      "quote": "CRC",
+      "name": "Euro/Colón Costarriquenho"
+    },
+    {
+      "code": "EUR-CUP",
+      "base": "EUR",
+      "quote": "CUP",
+      "name": "Euro/Peso Cubano"
+    },
+    {
+      "code": "EUR-CVE",
+      "base": "EUR",
+      "quote": "CVE",
+      "name": "Euro/Escudo cabo-verdiano"
+    },
+    {
+      "code": "EUR-CZK",
+      "base": "EUR",
+      "quote": "CZK",
+      "name": "Euro/Coroa Checa"
+    },
+    {
+      "code": "EUR-DJF",
+      "base": "EUR",
+      "quote": "DJF",
+      "name": "Euro/Franco do Djubouti"
+    },
+    {
+      "code": "EUR-DKK",
+      "base": "EUR",
+      "quote": "DKK",
+      "name": "Euro/Coroa Dinamarquesa"
+    },
+    {
+      "code": "EUR-DOP",
+      "base": "EUR",
+      "quote": "DOP",
+      "name": "Euro/Peso Dominicano"
+    },
+    {
+      "code": "EUR-DZD",
+      "base": "EUR",
+      "quote": "DZD",
+      "name": "Euro/Dinar Argelino"
+    },
+    {
+      "code": "EUR-EGP",
+      "base": "EUR",
+      "quote": "EGP",
+      "name": "Euro/Libra Egípcia"
+    },
+    {
+      "code": "EUR-ETB",
+      "base": "EUR",
+      "quote": "ETB",
+      "name": "Euro/Birr Etíope"
+    },
+    {
+      "code": "EUR-FJD",
+      "base": "EUR",
+      "quote": "FJD",
+      "name": "Euro/Dólar de Fiji"
+    },
+    {
+      "code": "EUR-GBP",
+      "base": "EUR",
+      "quote": "GBP",
+      "name": "Euro/Libra Esterlina"
+    },
+    {
+      "code": "EUR-GEL",
+      "base": "EUR",
+      "quote": "GEL",
+      "name": "Euro/Lari Georgiano"
+    },
+    {
+      "code": "EUR-GHS",
+      "base": "EUR",
+      "quote": "GHS",
+      "name": "Euro/Cedi Ganês"
+    },
+    {
+      "code": "EUR-GMD",
+      "base": "EUR",
+      "quote": "GMD",
+      "name": "Euro/Dalasi da Gâmbia"
+    },
+    {
+      "code": "EUR-GNF",
+      "base": "EUR",
+      "quote": "GNF",
+      "name": "Euro/Franco de Guiné"
+    },
+    {
+      "code": "EUR-GTQ",
+      "base": "EUR",
+      "quote": "GTQ",
+      "name": "Euro/Quetzal Guatemalteco"
+    },
+    {
+      "code": "EUR-HKD",
+      "base": "EUR",
+      "quote": "HKD",
+      "name": "Euro/Dólar de Hong Kong"
+    },
+    {
+      "code": "EUR-HNL",
+      "base": "EUR",
+      "quote": "HNL",
+      "name": "Euro/Lempira Hondurenha"
+    },
+    {
+      "code": "EUR-HRK",
+      "base": "EUR",
+      "quote": "HRK",
+      "name": "Euro/Kuna Croata"
+    },
+    {
+      "code": "EUR-HTG",
+      "base": "EUR",
+      "quote": "HTG",
+      "name": "Euro/Gourde Haitiano"
+    },
+    {
+      "code": "EUR-HUF",
+      "base": "EUR",
+      "quote": "HUF",
+      "name": "Euro/Florim Húngaro"
+    },
+    {
+      "code": "EUR-IDR",
+      "base": "EUR",
+      "quote": "IDR",
+      "name": "Euro/Rupia Indonésia"
+    },
+    {
+      "code": "EUR-ILS",
+      "base": "EUR",
+      "quote": "ILS",
+      "name": "Euro/Novo Shekel Israelense"
+    },
+    {
+      "code": "EUR-INR",
+      "base": "EUR",
+      "quote": "INR",
+      "name": "Euro/Rúpia Indiana"
+    },
+    {
+      "code": "EUR-IQD",
+      "base": "EUR",
+      "quote": "IQD",
+      "name": "Euro/Dinar Iraquiano"
+    },
+    {
+      "code": "EUR-IRR",
+      "base": "EUR",
+      "quote": "IRR",
+      "name": "Euro/Rial Iraniano"
+    },
+    {
+      "code": "EUR-ISK",
+      "base": "EUR",
+      "quote": "ISK",
+      "name": "Euro/Coroa Islandesa"
+    },
+    {
+      "code": "EUR-JMD",
+      "base": "EUR",
+      "quote": "JMD",
+      "name": "Euro/Dólar Jamaicano"
+    },
+    {
+      "code": "EUR-JOD",
+      "base": "EUR",
+      "quote": "JOD",
+      "name": "Euro/Dinar Jordaniano"
+    },
+    {
+      "code": "EUR-JPY",
+      "base": "EUR",
+      "quote": "JPY",
+      "name": "Euro/Iene Japonês"
+    },
+    {
+      "code": "EUR-KES",
+      "base": "EUR",
+      "quote": "KES",
+      "name": "Euro/Shilling Queniano"
+    },
+    {
+      "code": "EUR-KHR",
+      "base": "EUR",
+      "quote": "KHR",
+      "name": "Euro/Riel Cambojano"
+    },
+    {
+      "code": "EUR-KRW",
+      "base": "EUR",
+      "quote": "KRW",
+      "name": "Euro/Won Sul-Coreano"
+    },
+    {
+      "code": "EUR-KWD",
+      "base": "EUR",
+      "quote": "KWD",
+      "name": "Euro/Dinar Kuwaitiano"
+    },
+    {
+      "code": "EUR-KYD",
+      "base": "EUR",
+      "quote": "KYD",
+      "name": "Euro/Dólar das Ilhas Cayman"
+    },
+    {
+      "code": "EUR-KZT",
+      "base": "EUR",
+      "quote": "KZT",
+      "name": "Euro/Tengue Cazaquistanês"
+    },
+    {
+      "code": "EUR-LAK",
+      "base": "EUR",
+      "quote": "LAK",
+      "name": "Euro/Kip Laosiano"
+    },
+    {
+      "code": "EUR-LBP",
+      "base": "EUR",
+      "quote": "LBP",
+      "name": "Euro/Libra Libanesa"
+    },
+    {
+      "code": "EUR-LKR",
+      "base": "EUR",
+      "quote": "LKR",
+      "name": "Euro/Rúpia de Sri Lanka"
+    },
+    {
+      "code": "EUR-LSL",
+      "base": "EUR",
+      "quote": "LSL",
+      "name": "Euro/Loti do Lesoto"
+    },
+    {
+      "code": "EUR-LYD",
+      "base": "EUR",
+      "quote": "LYD",
+      "name": "Euro/Dinar Líbio"
+    },
+    {
+      "code": "EUR-MAD",
+      "base": "EUR",
+      "quote": "MAD",
+      "name": "Euro/Dirham Marroquino"
+    },
+    {
+      "code": "EUR-MDL",
+      "base": "EUR",
+      "quote": "MDL",
+      "name": "Euro/Leu Moldavo"
+    },
+    {
+      "code": "EUR-MGA",
+      "base": "EUR",
+      "quote": "MGA",
+      "name": "Euro/Ariary Madagascarense"
+    },
+    {
+      "code": "EUR-MKD",
+      "base": "EUR",
+      "quote": "MKD",
+      "name": "Euro/Denar Macedônio"
+    },
+    {
+      "code": "EUR-MMK",
+      "base": "EUR",
+      "quote": "MMK",
+      "name": "Euro/Kyat de Mianmar"
+    },
+    {
+      "code": "EUR-MOP",
+      "base": "EUR",
+      "quote": "MOP",
+      "name": "Euro/Pataca de Macau"
+    },
+    {
+      "code": "EUR-MRO",
+      "base": "EUR",
+      "quote": "MRO",
+      "name": "Euro/Ouguiya Mauritana"
+    },
+    {
+      "code": "EUR-MUR",
+      "base": "EUR",
+      "quote": "MUR",
+      "name": "Euro/Rúpia Mauriciana"
+    },
+    {
+      "code": "EUR-MWK",
+      "base": "EUR",
+      "quote": "MWK",
+      "name": "Euro/Kwacha Malauiana"
+    },
+    {
+      "code": "EUR-MXN",
+      "base": "EUR",
+      "quote": "MXN",
+      "name": "Euro/Peso Mexicano"
+    },
+    {
+      "code": "EUR-MYR",
+      "base": "EUR",
+      "quote": "MYR",
+      "name": "Euro/Ringgit Malaio"
+    },
+    {
+      "code": "EUR-MZN",
+      "base": "EUR",
+      "quote": "MZN",
+      "name": "Euro/Metical de Moçambique"
+    },
+    {
+      "code": "EUR-NAD",
+      "base": "EUR",
+      "quote": "NAD",
+      "name": "Euro/Dólar Namíbio"
+    },
+    {
+      "code": "EUR-NGN",
+      "base": "EUR",
+      "quote": "NGN",
+      "name": "Euro/Naira Nigeriana"
+    },
+    {
+      "code": "EUR-NIO",
+      "base": "EUR",
+      "quote": "NIO",
+      "name": "Euro/Córdoba Nicaraguense"
+    },
+    {
+      "code": "EUR-NOK",
+      "base": "EUR",
+      "quote": "NOK",
+      "name": "Euro/Coroa Norueguesa"
+    },
+    {
+      "code": "EUR-NPR",
+      "base": "EUR",
+      "quote": "NPR",
+      "name": "Euro/Rúpia Nepalesa"
+    },
+    {
+      "code": "EUR-NZD",
+      "base": "EUR",
+      "quote": "NZD",
+      "name": "Euro/Dólar Neozelandês"
+    },
+    {
+      "code": "EUR-OMR",
+      "base": "EUR",
+      "quote": "OMR",
+      "name": "Euro/Rial Omanense"
+    },
+    {
+      "code": "EUR-PAB",
+      "base": "EUR",
+      "quote": "PAB",
+      "name": "Euro/Balboa Panamenho"
+    },
+    {
+      "code": "EUR-PEN",
+      "base": "EUR",
+      "quote": "PEN",
+      "name": "Euro/Sol do Peru"
+    },
+    {
+      "code": "EUR-PGK",
+      "base": "EUR",
+      "quote": "PGK",
+      "name": "Euro/Kina Papua-Nova Guiné"
+    },
+    {
+      "code": "EUR-PHP",
+      "base": "EUR",
+      "quote": "PHP",
+      "name": "Euro/Peso Filipino"
+    },
+    {
+      "code": "EUR-PKR",
+      "base": "EUR",
+      "quote": "PKR",
+      "name": "Euro/Rúpia Paquistanesa"
+    },
+    {
+      "code": "EUR-PLN",
+      "base": "EUR",
+      "quote": "PLN",
+      "name": "Euro/Zlóti Polonês"
+    },
+    {
+      "code": "EUR-PYG",
+      "base": "EUR",
+      "quote": "PYG",
+      "name": "Euro/Guarani Paraguaio"
+    },
+    {
+      "code": "EUR-QAR",
+      "base": "EUR",
+      "quote": "QAR",
+      "name": "Euro/Rial Catarense"
+    },
+    {
+      "code": "EUR-RON",
+      "base": "EUR",
+      "quote": "RON",
+      "name": "Euro/Leu Romeno"
+    },
+    {
+      "code": "EUR-RSD",
+      "base": "EUR",
+      "quote": "RSD",
+      "name": "Euro/Dinar Sérvio"
+    },
+    {
+      "code": "EUR-RUB",
+      "base": "EUR",
+      "quote": "RUB",
+      "name": "Euro/Rublo Russo"
+    },
+    {
+      "code": "EUR-RWF",
+      "base": "EUR",
+      "quote": "RWF",
+      "name": "Euro/Franco Ruandês"
+    },
+    {
+      "code": "EUR-SAR",
+      "base": "EUR",
+      "quote": "SAR",
+      "name": "Euro/Riyal Saudita"
+    },
+    {
+      "code": "EUR-SCR",
+      "base": "EUR",
+      "quote": "SCR",
+      "name": "Euro/Rúpias de Seicheles"
+    },
+    {
+      "code": "EUR-SDG",
+      "base": "EUR",
+      "quote": "SDG",
+      "name": "Euro/Libra Sudanesa"
+    },
+    {
+      "code": "EUR-SDR",
+      "base": "EUR",
+      "quote": "SDR",
+      "name": "Euro/DSE"
+    },
+    {
+      "code": "EUR-SEK",
+      "base": "EUR",
+      "quote": "SEK",
+      "name": "Euro/Coroa Sueca"
+    },
+    {
+      "code": "EUR-SGD",
+      "base": "EUR",
+      "quote": "SGD",
+      "name": "Euro/Dólar de Cingapura"
+    },
+    {
+      "code": "EUR-SOS",
+      "base": "EUR",
+      "quote": "SOS",
+      "name": "Euro/Shilling Somaliano"
+    },
+    {
+      "code": "EUR-STD",
+      "base": "EUR",
+      "quote": "STD",
+      "name": "Euro/Dobra São Tomé/Príncipe"
+    },
+    {
+      "code": "EUR-SVC",
+      "base": "EUR",
+      "quote": "SVC",
+      "name": "Euro/Colon de El Salvador"
+    },
+    {
+      "code": "EUR-SYP",
+      "base": "EUR",
+      "quote": "SYP",
+      "name": "Euro/Libra Síria"
+    },
+    {
+      "code": "EUR-SZL",
+      "base": "EUR",
+      "quote": "SZL",
+      "name": "Euro/Lilangeni Suazilandês"
+    },
+    {
+      "code": "EUR-THB",
+      "base": "EUR",
+      "quote": "THB",
+      "name": "Euro/Baht Tailandês"
+    },
+    {
+      "code": "EUR-TJS",
+      "base": "EUR",
+      "quote": "TJS",
+      "name": "Euro/Somoni do Tajiquistão"
+    },
+    {
+      "code": "EUR-TND",
+      "base": "EUR",
+      "quote": "TND",
+      "name": "Euro/Dinar Tunisiano"
+    },
+    {
+      "code": "EUR-TRY",
+      "base": "EUR",
+      "quote": "TRY",
+      "name": "Euro/Nova Lira Turca"
+    },
+    {
+      "code": "EUR-TTD",
+      "base": "EUR",
+      "quote": "TTD",
+      "name": "Euro/Dólar de Trinidad"
+    },
+    {
+      "code": "EUR-TWD",
+      "base": "EUR",
+      "quote": "TWD",
+      "name": "Euro/Dólar Taiuanês"
+    },
+    {
+      "code": "EUR-TZS",
+      "base": "EUR",
+      "quote": "TZS",
+      "name": "Euro/Shilling Tanzaniano"
+    },
+    {
+      "code": "EUR-UAH",
+      "base": "EUR",
+      "quote": "UAH",
+      "name": "Euro/Hryvinia Ucraniana"
+    },
+    {
+      "code": "EUR-UGX",
+      "base": "EUR",
+      "quote": "UGX",
+      "name": "Euro/Shilling Ugandês"
+    },
+    {
+      "code": "EUR-USD",
+      "base": "EUR",
+      "quote": "USD",
+      "name": "Euro/Dólar Americano"
+    },
+    {
+      "code": "EUR-UYU",
+      "base": "EUR",
+      "quote": "UYU",
+      "name": "Euro/Peso Uruguaio"
+    },
+    {
+      "code": "EUR-UZS",
+      "base": "EUR",
+      "quote": "UZS",
+      "name": "Euro/Som Uzbequistanês"
+    },
+    {
+      "code": "EUR-VEF",
+      "base": "EUR",
+      "quote": "VEF",
+      "name": "Euro/Bolívar Venezuelano"
+    },
+    {
+      "code": "EUR-VND",
+      "base": "EUR",
+      "quote": "VND",
+      "name": "Euro/Dong Vietnamita"
+    },
+    {
+      "code": "EUR-XAF",
+      "base": "EUR",
+      "quote": "XAF",
+      "name": "Euro/Franco CFA Central"
+    },
+    {
+      "code": "EUR-XCD",
+      "base": "EUR",
+      "quote": "XCD",
+      "name": "Euro/Dólar do Caribe Oriental"
+    },
+    {
+      "code": "EUR-XOF",
+      "base": "EUR",
+      "quote": "XOF",
+      "name": "Euro/Franco CFA Ocidental"
+    },
+    {
+      "code": "EUR-XPF",
+      "base": "EUR",
+      "quote": "XPF",
+      "name": "Euro/Franco CFP"
+    },
+    {
+      "code": "EUR-ZAR",
+      "base": "EUR",
+      "quote": "ZAR",
+      "name": "Euro/Rand Sul-Africano"
+    },
+    {
+      "code": "EUR-ZMK",
+      "base": "EUR",
+      "quote": "ZMK",
+      "name": "Euro/Kwacha Zambiana"
+    },
+    {
+      "code": "FJD-USD",
+      "base": "FJD",
+      "quote": "USD",
+      "name": "Dólar de Fiji/Dólar Americano"
+    },
+    {
+      "code": "GBP-AUD",
+      "base": "GBP",
+      "quote": "AUD",
+      "name": "Libra Esterlina/Dólar Australiano"
+    },
+    {
+      "code": "GBP-BRL",
+      "base": "GBP",
+      "quote": "BRL",
+      "name": "Libra Esterlina/Real Brasileiro"
+    },
+    {
+      "code": "GBP-BRLPTAX",
+      "base": "GBP",
+      "quote": "BRLPTAX",
+      "name": "Libra Esterlina/Real Brasileiro"
+    },
+    {
+      "code": "GBP-CHF",
+      "base": "GBP",
+      "quote": "CHF",
+      "name": "Libra Esterlina/Franco Suíço"
+    },
+    {
+      "code": "GBP-EUR",
+      "base": "GBP",
+      "quote": "EUR",
+      "name": "Libra Esterlina/Euro"
+    },
+    {
+      "code": "GBP-JPY",
+      "base": "GBP",
+      "quote": "JPY",
+      "name": "Libra Esterlina/Iene Japonês"
+    },
+    {
+      "code": "GBP-USD",
+      "base": "GBP",
+      "quote": "USD",
+      "name": "Libra Esterlina/Dólar Americano"
+    },
+    {
+      "code": "GBP-XCD",
+      "base": "GBP",
+      "quote": "XCD",
+      "name": "Libra Esterlina/Dólar do Caribe Oriental"
+    },
+    {
+      "code": "GBP-ZAR",
+      "base": "GBP",
+      "quote": "ZAR",
+      "name": "Libra Esterlina/Rand Sul-Africano"
+    },
+    {
+      "code": "GEL-EUR",
+      "base": "GEL",
+      "quote": "EUR",
+      "name": "Lari Georgiano/Euro"
+    },
+    {
+      "code": "GHS-EUR",
+      "base": "GHS",
+      "quote": "EUR",
+      "name": "Cedi Ganês/Euro"
+    },
+    {
+      "code": "GHS-USD",
+      "base": "GHS",
+      "quote": "USD",
+      "name": "Cedi Ganês/Dólar Americano"
+    },
+    {
+      "code": "HKD-BRL",
+      "base": "HKD",
+      "quote": "BRL",
+      "name": "Dólar de Hong Kong/Real Brasileiro"
+    },
+    {
+      "code": "HKD-EUR",
+      "base": "HKD",
+      "quote": "EUR",
+      "name": "Dólar de Hong Kong/Euro"
+    },
+    {
+      "code": "HKD-USD",
+      "base": "HKD",
+      "quote": "USD",
+      "name": "Dólar de Hong Kong/Dólar Americano"
+    },
+    {
+      "code": "HUF-BRL",
+      "base": "HUF",
+      "quote": "BRL",
+      "name": "Florim Húngaro/Real Brasileiro"
+    },
+    {
+      "code": "HUF-EUR",
+      "base": "HUF",
+      "quote": "EUR",
+      "name": "Florim Húngaro/Euro"
+    },
+    {
+      "code": "HUF-USD",
+      "base": "HUF",
+      "quote": "USD",
+      "name": "Florim Húngaro/Dólar Americano"
+    },
+    {
+      "code": "IDR-EUR",
+      "base": "IDR",
+      "quote": "EUR",
+      "name": "Rupia Indonésia/Euro"
+    },
+    {
+      "code": "IDR-USD",
+      "base": "IDR",
+      "quote": "USD",
+      "name": "Rupia Indonésia/Dólar Americano"
+    },
+    {
+      "code": "ILS-BRL",
+      "base": "ILS",
+      "quote": "BRL",
+      "name": "Novo Shekel Israelense/Real Brasileiro"
+    },
+    {
+      "code": "ILS-EUR",
+      "base": "ILS",
+      "quote": "EUR",
+      "name": "Novo Shekel Israelense/Euro"
+    },
+    {
+      "code": "ILS-NZD",
+      "base": "ILS",
+      "quote": "NZD",
+      "name": "Novo Shekel Israelense/Dólar Neozelandês"
+    },
+    {
+      "code": "ILS-USD",
+      "base": "ILS",
+      "quote": "USD",
+      "name": "Novo Shekel Israelense/Dólar Americano"
+    },
+    {
+      "code": "INR-BRL",
+      "base": "INR",
+      "quote": "BRL",
+      "name": "Rúpia Indiana/Real Brasileiro"
+    },
+    {
+      "code": "INR-EUR",
+      "base": "INR",
+      "quote": "EUR",
+      "name": "Rúpia Indiana/Euro"
+    },
+    {
+      "code": "INR-USD",
+      "base": "INR",
+      "quote": "USD",
+      "name": "Rúpia Indiana/Dólar Americano"
+    },
+    {
+      "code": "IQD-USD",
+      "base": "IQD",
+      "quote": "USD",
+      "name": "Dinar Iraquiano/Dólar Americano"
+    },
+    {
+      "code": "IRR-USD",
+      "base": "IRR",
+      "quote": "USD",
+      "name": "Rial Iraniano/Dólar Americano"
+    },
+    {
+      "code": "JOD-EUR",
+      "base": "JOD",
+      "quote": "EUR",
+      "name": "Dinar Jordaniano/Euro"
+    },
+    {
+      "code": "JOD-USD",
+      "base": "JOD",
+      "quote": "USD",
+      "name": "Dinar Jordaniano/Dólar Americano"
+    },
+    {
+      "code": "JPY-BRL",
+      "base": "JPY",
+      "quote": "BRL",
+      "name": "Iene Japonês/Real Brasileiro"
+    },
+    {
+      "code": "JPY-BRLPTAX",
+      "base": "JPY",
+      "quote": "BRLPTAX",
+      "name": "Iene Japonês/Real Brasileiro"
+    },
+    {
+      "code": "JPY-EUR",
+      "base": "JPY",
+      "quote": "EUR",
+      "name": "Iene Japonês/Euro"
+    },
+    {
+      "code": "JPY-USD",
+      "base": "JPY",
+      "quote": "USD",
+      "name": "Iene Japonês/Dólar Americano"
+    },
+    {
+      "code": "KES-BRL",
+      "base": "KES",
+      "quote": "BRL",
+      "name": "Shilling Queniano/Real Brasileiro"
+    },
+    {
+      "code": "KES-USD",
+      "base": "KES",
+      "quote": "USD",
+      "name": "Shilling Queniano/Dólar Americano"
+    },
+    {
+      "code": "KRW-BRL",
+      "base": "KRW",
+      "quote": "BRL",
+      "name": "Won Sul-Coreano/Real Brasileiro"
+    },
+    {
+      "code": "KRW-EUR",
+      "base": "KRW",
+      "quote": "EUR",
+      "name": "Won Sul-Coreano/Euro"
+    },
+    {
+      "code": "KRW-USD",
+      "base": "KRW",
+      "quote": "USD",
+      "name": "Won Sul-Coreano/Dólar Americano"
+    },
+    {
+      "code": "KWD-EUR",
+      "base": "KWD",
+      "quote": "EUR",
+      "name": "Dinar Kuwaitiano/Euro"
+    },
+    {
+      "code": "KWD-USD",
+      "base": "KWD",
+      "quote": "USD",
+      "name": "Dinar Kuwaitiano/Dólar Americano"
+    },
+    {
+      "code": "KYD-USD",
+      "base": "KYD",
+      "quote": "USD",
+      "name": "Dólar das Ilhas Cayman/Dólar Americano"
+    },
+    {
+      "code": "LTC-BRL",
+      "base": "LTC",
+      "quote": "BRL",
+      "name": "Litecoin/Real Brasileiro"
+    },
+    {
+      "code": "LTC-EUR",
+      "base": "LTC",
+      "quote": "EUR",
+      "name": "Litecoin/Euro"
+    },
+    {
+      "code": "LTC-USD",
+      "base": "LTC",
+      "quote": "USD",
+      "name": "Litecoin/Dólar Americano"
+    },
+    {
+      "code": "MAD-EUR",
+      "base": "MAD",
+      "quote": "EUR",
+      "name": "Dirham Marroquino/Euro"
+    },
+    {
+      "code": "MXN-BRL",
+      "base": "MXN",
+      "quote": "BRL",
+      "name": "Peso Mexicano/Real Brasileiro"
+    },
+    {
+      "code": "MXN-EUR",
+      "base": "MXN",
+      "quote": "EUR",
+      "name": "Peso Mexicano/Euro"
+    },
+    {
+      "code": "MXN-USD",
+      "base": "MXN",
+      "quote": "USD",
+      "name": "Peso Mexicano/Dólar Americano"
+    },
+    {
+      "code": "MXN-XCD",
+      "base": "MXN",
+      "quote": "XCD",
+      "name": "Peso Mexicano/Dólar do Caribe Oriental"
+    },
+    {
+      "code": "MYR-USD",
+      "base": "MYR",
+      "quote": "USD",
+      "name": "Ringgit Malaio/Dólar Americano"
+    },
+    {
+      "code": "NIO-USD",
+      "base": "NIO",
+      "quote": "USD",
+      "name": "Córdoba Nicaraguense/Dólar Americano"
+    },
+    {
+      "code": "NOK-BRL",
+      "base": "NOK",
+      "quote": "BRL",
+      "name": "Coroa Norueguesa/Real Brasileiro"
+    },
+    {
+      "code": "NOK-BRLPTAX",
+      "base": "NOK",
+      "quote": "BRLPTAX",
+      "name": "Coroa Norueguesa/Real Brasileiro"
+    },
+    {
+      "code": "NOK-EUR",
+      "base": "NOK",
+      "quote": "EUR",
+      "name": "Coroa Norueguesa/Euro"
+    },
+    {
+      "code": "NOK-SEK",
+      "base": "NOK",
+      "quote": "SEK",
+      "name": "Coroa Norueguesa/Coroa Sueca"
+    },
+    {
+      "code": "NOK-USD",
+      "base": "NOK",
+      "quote": "USD",
+      "name": "Coroa Norueguesa/Dólar Americano"
+    },
+    {
+      "code": "NZD-BRL",
+      "base": "NZD",
+      "quote": "BRL",
+      "name": "Dólar Neozelandês/Real Brasileiro"
+    },
+    {
+      "code": "NZD-EUR",
+      "base": "NZD",
+      "quote": "EUR",
+      "name": "Dólar Neozelandês/Euro"
+    },
+    {
+      "code": "NZD-ILS",
+      "base": "NZD",
+      "quote": "ILS",
+      "name": "Dólar Neozelandês/Novo Shekel Israelense"
+    },
+    {
+      "code": "NZD-JPY",
+      "base": "NZD",
+      "quote": "JPY",
+      "name": "Dólar Neozelandês/Iene Japonês"
+    },
+    {
+      "code": "NZD-USD",
+      "base": "NZD",
+      "quote": "USD",
+      "name": "Dólar Neozelandês/Dólar Americano"
+    },
+    {
+      "code": "PEN-BRL",
+      "base": "PEN",
+      "quote": "BRL",
+      "name": "Sol do Peru/Real Brasileiro"
+    },
+    {
+      "code": "PEN-EUR",
+      "base": "PEN",
+      "quote": "EUR",
+      "name": "Sol do Peru/Euro"
+    },
+    {
+      "code": "PEN-USD",
+      "base": "PEN",
+      "quote": "USD",
+      "name": "Sol do Peru/Dólar Americano"
+    },
+    {
+      "code": "PHP-BRL",
+      "base": "PHP",
+      "quote": "BRL",
+      "name": "Peso Filipino/Real Brasileiro"
+    },
+    {
+      "code": "PHP-USD",
+      "base": "PHP",
+      "quote": "USD",
+      "name": "Peso Filipino/Dólar Americano"
+    },
+    {
+      "code": "PLN-BRL",
+      "base": "PLN",
+      "quote": "BRL",
+      "name": "Zlóti Polonês/Real Brasileiro"
+    },
+    {
+      "code": "PLN-EUR",
+      "base": "PLN",
+      "quote": "EUR",
+      "name": "Zlóti Polonês/Euro"
+    },
+    {
+      "code": "PLN-USD",
+      "base": "PLN",
+      "quote": "USD",
+      "name": "Zlóti Polonês/Dólar Americano"
+    },
+    {
+      "code": "PYG-ARS",
+      "base": "PYG",
+      "quote": "ARS",
+      "name": "Guarani Paraguaio/Peso Argentino"
+    },
+    {
+      "code": "PYG-BRL",
+      "base": "PYG",
+      "quote": "BRL",
+      "name": "Guarani Paraguaio/Real Brasileiro"
+    },
+    {
+      "code": "PYG-EUR",
+      "base": "PYG",
+      "quote": "EUR",
+      "name": "Guarani Paraguaio/Euro"
+    },
+    {
+      "code": "PYG-USD",
+      "base": "PYG",
+      "quote": "USD",
+      "name": "Guarani Paraguaio/Dólar Americano"
+    },
+    {
+      "code": "RON-BRL",
+      "base": "RON",
+      "quote": "BRL",
+      "name": "Leu Romeno/Real Brasileiro"
+    },
+    {
+      "code": "RON-USD",
+      "base": "RON",
+      "quote": "USD",
+      "name": "Leu Romeno/Dólar Americano"
+    },
+    {
+      "code": "RSD-BRL",
+      "base": "RSD",
+      "quote": "BRL",
+      "name": "Dinar Sérvio/Real Brasileiro"
+    },
+    {
+      "code": "RUB-BRL",
+      "base": "RUB",
+      "quote": "BRL",
+      "name": "Rublo Russo/Real Brasileiro"
+    },
+    {
+      "code": "RUB-EUR",
+      "base": "RUB",
+      "quote": "EUR",
+      "name": "Rublo Russo/Euro"
+    },
+    {
+      "code": "RUB-USD",
+      "base": "RUB",
+      "quote": "USD",
+      "name": "Rublo Russo/Dólar Americano"
+    },
+    {
+      "code": "SAR-BRL",
+      "base": "SAR",
+      "quote": "BRL",
+      "name": "Riyal Saudita/Real Brasileiro"
+    },
+    {
+      "code": "SAR-EUR",
+      "base": "SAR",
+      "quote": "EUR",
+      "name": "Riyal Saudita/Euro"
+    },
+    {
+      "code": "SAR-USD",
+      "base": "SAR",
+      "quote": "USD",
+      "name": "Riyal Saudita/Dólar Americano"
+    },
+    {
+      "code": "SDG-USD",
+      "base": "SDG",
+      "quote": "USD",
+      "name": "Libra Sudanesa/Dólar Americano"
+    },
+    {
+      "code": "SEK-BRL",
+      "base": "SEK",
+      "quote": "BRL",
+      "name": "Coroa Sueca/Real Brasileiro"
+    },
+    {
+      "code": "SEK-BRLPTAX",
+      "base": "SEK",
+      "quote": "BRLPTAX",
+      "name": "Coroa Sueca/Real Brasileiro"
+    },
+    {
+      "code": "SEK-EUR",
+      "base": "SEK",
+      "quote": "EUR",
+      "name": "Coroa Sueca/Euro"
+    },
+    {
+      "code": "SEK-NOK",
+      "base": "SEK",
+      "quote": "NOK",
+      "name": "Coroa Sueca/Coroa Norueguesa"
+    },
+    {
+      "code": "SEK-USD",
+      "base": "SEK",
+      "quote": "USD",
+      "name": "Coroa Sueca/Dólar Americano"
+    },
+    {
+      "code": "SGD-BRL",
+      "base": "SGD",
+      "quote": "BRL",
+      "name": "Dólar de Cingapura/Real Brasileiro"
+    },
+    {
+      "code": "SGD-EUR",
+      "base": "SGD",
+      "quote": "EUR",
+      "name": "Dólar de Cingapura/Euro"
+    },
+    {
+      "code": "SGD-USD",
+      "base": "SGD",
+      "quote": "USD",
+      "name": "Dólar de Cingapura/Dólar Americano"
+    },
+    {
+      "code": "SOL-BRL",
+      "base": "SOL",
+      "quote": "BRL",
+      "name": "Solana/Real Brasileiro"
+    },
+    {
+      "code": "SOL-EUR",
+      "base": "SOL",
+      "quote": "EUR",
+      "name": "Solana/Euro"
+    },
+    {
+      "code": "SOL-USD",
+      "base": "SOL",
+      "quote": "USD",
+      "name": "Solana/Dólar Americano"
+    },
+    {
+      "code": "SYP-USD",
+      "base": "SYP",
+      "quote": "USD",
+      "name": "Libra Síria/Dólar Americano"
+    },
+    {
+      "code": "THB-BRL",
+      "base": "THB",
+      "quote": "BRL",
+      "name": "Baht Tailandês/Real Brasileiro"
+    },
+    {
+      "code": "THB-USD",
+      "base": "THB",
+      "quote": "USD",
+      "name": "Baht Tailandês/Dólar Americano"
+    },
+    {
+      "code": "TRY-BRL",
+      "base": "TRY",
+      "quote": "BRL",
+      "name": "Nova Lira Turca/Real Brasileiro"
+    },
+    {
+      "code": "TRY-EUR",
+      "base": "TRY",
+      "quote": "EUR",
+      "name": "Nova Lira Turca/Euro"
+    },
+    {
+      "code": "TRY-USD",
+      "base": "TRY",
+      "quote": "USD",
+      "name": "Nova Lira Turca/Dólar Americano"
+    },
+    {
+      "code": "TWD-BRL",
+      "base": "TWD",
+      "quote": "BRL",
+      "name": "Dólar Taiuanês/Real Brasileiro"
+    },
+    {
+      "code": "TWD-EUR",
+      "base": "TWD",
+      "quote": "EUR",
+      "name": "Dólar Taiuanês/Euro"
+    },
+    {
+      "code": "TWD-USD",
+      "base": "TWD",
+      "quote": "USD",
+      "name": "Dólar Taiuanês/Dólar Americano"
+    },
+    {
+      "code": "UAH-USD",
+      "base": "UAH",
+      "quote": "USD",
+      "name": "Hryvinia Ucraniana/Dólar Americano"
+    },
+    {
+      "code": "USD-AED",
+      "base": "USD",
+      "quote": "AED",
+      "name": "Dólar Americano/Dirham dos Emirados"
+    },
+    {
+      "code": "USD-AFN",
+      "base": "USD",
+      "quote": "AFN",
+      "name": "Dólar Americano/Afghani do Afeganistão"
+    },
+    {
+      "code": "USD-ALL",
+      "base": "USD",
+      "quote": "ALL",
+      "name": "Dólar Americano/Lek Albanês"
+    },
+    {
+      "code": "USD-AMD",
+      "base": "USD",
+      "quote": "AMD",
+      "name": "Dólar Americano/Dram Armênio"
+    },
+    {
+      "code": "USD-ANG",
+      "base": "USD",
+      "quote": "ANG",
+      "name": "Dólar Americano/Guilder das Antilhas"
+    },
+    {
+      "code": "USD-AOA",
+      "base": "USD",
+      "quote": "AOA",
+      "name": "Dólar Americano/Kwanza Angolano"
+    },
+    {
+      "code": "USD-ARS",
+      "base": "USD",
+      "quote": "ARS",
+      "name": "Dólar Americano/Peso Argentino"
+    },
+    {
+      "code": "USD-AUD",
+      "base": "USD",
+      "quote": "AUD",
+      "name": "Dólar Americano/Dólar Australiano"
+    },
+    {
+      "code": "USD-AZN",
+      "base": "USD",
+      "quote": "AZN",
+      "name": "Dólar Americano/Manat Azeri"
+    },
+    {
+      "code": "USD-BBD",
+      "base": "USD",
+      "quote": "BBD",
+      "name": "Dólar Americano/Dólar de Barbados"
+    },
+    {
+      "code": "USD-BDT",
+      "base": "USD",
+      "quote": "BDT",
+      "name": "Dólar Americano/Taka de Bangladesh"
+    },
+    {
+      "code": "USD-BGN",
+      "base": "USD",
+      "quote": "BGN",
+      "name": "Dólar Americano/Lev Búlgaro"
+    },
+    {
+      "code": "USD-BHD",
+      "base": "USD",
+      "quote": "BHD",
+      "name": "Dólar Americano/Dinar do Bahrein"
+    },
+    {
+      "code": "USD-BIF",
+      "base": "USD",
+      "quote": "BIF",
+      "name": "Dólar Americano/Franco Burundinense"
+    },
+    {
+      "code": "USD-BND",
+      "base": "USD",
+      "quote": "BND",
+      "name": "Dólar Americano/Dólar de Brunei"
+    },
+    {
+      "code": "USD-BOB",
+      "base": "USD",
+      "quote": "BOB",
+      "name": "Dólar Americano/Boliviano"
+    },
+    {
+      "code": "USD-BRL",
+      "base": "USD",
+      "quote": "BRL",
+      "name": "Dólar Americano/Real Brasileiro"
+    },
+    {
+      "code": "USD-BRLPTAX",
+      "base": "USD",
+      "quote": "BRLPTAX",
+      "name": "Dólar Americano/Real Brasileiro"
+    },
+    {
+      "code": "USD-BRLT",
+      "base": "USD",
+      "quote": "BRLT",
+      "name": "Dólar Americano/Real Brasileiro Turismo"
+    },
+    {
+      "code": "USD-BSD",
+      "base": "USD",
+      "quote": "BSD",
+      "name": "Dólar Americano/Dólar das Bahamas"
+    },
+    {
+      "code": "USD-BWP",
+      "base": "USD",
+      "quote": "BWP",
+      "name": "Dólar Americano/Pula de Botswana"
+    },
+    {
+      "code": "USD-BYN",
+      "base": "USD",
+      "quote": "BYN",
+      "name": "Dólar Americano/Rublo Bielorrusso"
+    },
+    {
+      "code": "USD-BZD",
+      "base": "USD",
+      "quote": "BZD",
+      "name": "Dólar Americano/Dólar de Belize"
+    },
+    {
+      "code": "USD-CAD",
+      "base": "USD",
+      "quote": "CAD",
+      "name": "Dólar Americano/Dólar Canadense"
+    },
+    {
+      "code": "USD-CHF",
+      "base": "USD",
+      "quote": "CHF",
+      "name": "Dólar Americano/Franco Suíço"
+    },
+    {
+      "code": "USD-CLP",
+      "base": "USD",
+      "quote": "CLP",
+      "name": "Dólar Americano/Peso Chileno"
+    },
+    {
+      "code": "USD-CNH",
+      "base": "USD",
+      "quote": "CNH",
+      "name": "Dólar Americano/Yuan chinês offshore"
+    },
+    {
+      "code": "USD-CNY",
+      "base": "USD",
+      "quote": "CNY",
+      "name": "Dólar Americano/Yuan Chinês"
+    },
+    {
+      "code": "USD-COP",
+      "base": "USD",
+      "quote": "COP",
+      "name": "Dólar Americano/Peso Colombiano"
+    },
+    {
+      "code": "USD-CRC",
+      "base": "USD",
+      "quote": "CRC",
+      "name": "Dólar Americano/Colón Costarriquenho"
+    },
+    {
+      "code": "USD-CUP",
+      "base": "USD",
+      "quote": "CUP",
+      "name": "Dólar Americano/Peso Cubano"
+    },
+    {
+      "code": "USD-CZK",
+      "base": "USD",
+      "quote": "CZK",
+      "name": "Dólar Americano/Coroa Checa"
+    },
+    {
+      "code": "USD-DJF",
+      "base": "USD",
+      "quote": "DJF",
+      "name": "Dólar Americano/Franco do Djubouti"
+    },
+    {
+      "code": "USD-DKK",
+      "base": "USD",
+      "quote": "DKK",
+      "name": "Dólar Americano/Coroa Dinamarquesa"
+    },
+    {
+      "code": "USD-DOP",
+      "base": "USD",
+      "quote": "DOP",
+      "name": "Dólar Americano/Peso Dominicano"
+    },
+    {
+      "code": "USD-DZD",
+      "base": "USD",
+      "quote": "DZD",
+      "name": "Dólar Americano/Dinar Argelino"
+    },
+    {
+      "code": "USD-EGP",
+      "base": "USD",
+      "quote": "EGP",
+      "name": "Dólar Americano/Libra Egípcia"
+    },
+    {
+      "code": "USD-ETB",
+      "base": "USD",
+      "quote": "ETB",
+      "name": "Dólar Americano/Birr Etíope"
+    },
+    {
+      "code": "USD-EUR",
+      "base": "USD",
+      "quote": "EUR",
+      "name": "Dólar Americano/Euro"
+    },
+    {
+      "code": "USD-FJD",
+      "base": "USD",
+      "quote": "FJD",
+      "name": "Dólar Americano/Dólar de Fiji"
+    },
+    {
+      "code": "USD-GBP",
+      "base": "USD",
+      "quote": "GBP",
+      "name": "Dólar Americano/Libra Esterlina"
+    },
+    {
+      "code": "USD-GEL",
+      "base": "USD",
+      "quote": "GEL",
+      "name": "Dólar Americano/Lari Georgiano"
+    },
+    {
+      "code": "USD-GHS",
+      "base": "USD",
+      "quote": "GHS",
+      "name": "Dólar Americano/Cedi Ganês"
+    },
+    {
+      "code": "USD-GMD",
+      "base": "USD",
+      "quote": "GMD",
+      "name": "Dólar Americano/Dalasi da Gâmbia"
+    },
+    {
+      "code": "USD-GNF",
+      "base": "USD",
+      "quote": "GNF",
+      "name": "Dólar Americano/Franco de Guiné"
+    },
+    {
+      "code": "USD-GTQ",
+      "base": "USD",
+      "quote": "GTQ",
+      "name": "Dólar Americano/Quetzal Guatemalteco"
+    },
+    {
+      "code": "USD-HKD",
+      "base": "USD",
+      "quote": "HKD",
+      "name": "Dólar Americano/Dólar de Hong Kong"
+    },
+    {
+      "code": "USD-HNL",
+      "base": "USD",
+      "quote": "HNL",
+      "name": "Dólar Americano/Lempira Hondurenha"
+    },
+    {
+      "code": "USD-HRK",
+      "base": "USD",
+      "quote": "HRK",
+      "name": "Dólar Americano/Kuna Croata"
+    },
+    {
+      "code": "USD-HTG",
+      "base": "USD",
+      "quote": "HTG",
+      "name": "Dólar Americano/Gourde Haitiano"
+    },
+    {
+      "code": "USD-HUF",
+      "base": "USD",
+      "quote": "HUF",
+      "name": "Dólar Americano/Florim Húngaro"
+    },
+    {
+      "code": "USD-IDR",
+      "base": "USD",
+      "quote": "IDR",
+      "name": "Dólar Americano/Rupia Indonésia"
+    },
+    {
+      "code": "USD-ILS",
+      "base": "USD",
+      "quote": "ILS",
+      "name": "Dólar Americano/Novo Shekel Israelense"
+    },
+    {
+      "code": "USD-INR",
+      "base": "USD",
+      "quote": "INR",
+      "name": "Dólar Americano/Rúpia Indiana"
+    },
+    {
+      "code": "USD-IQD",
+      "base": "USD",
+      "quote": "IQD",
+      "name": "Dólar Americano/Dinar Iraquiano"
+    },
+    {
+      "code": "USD-IRR",
+      "base": "USD",
+      "quote": "IRR",
+      "name": "Dólar Americano/Rial Iraniano"
+    },
+    {
+      "code": "USD-ISK",
+      "base": "USD",
+      "quote": "ISK",
+      "name": "Dólar Americano/Coroa Islandesa"
+    },
+    {
+      "code": "USD-JMD",
+      "base": "USD",
+      "quote": "JMD",
+      "name": "Dólar Americano/Dólar Jamaicano"
+    },
+    {
+      "code": "USD-JOD",
+      "base": "USD",
+      "quote": "JOD",
+      "name": "Dólar Americano/Dinar Jordaniano"
+    },
+    {
+      "code": "USD-JPY",
+      "base": "USD",
+      "quote": "JPY",
+      "name": "Dólar Americano/Iene Japonês"
+    },
+    {
+      "code": "USD-KES",
+      "base": "USD",
+      "quote": "KES",
+      "name": "Dólar Americano/Shilling Queniano"
+    },
+    {
+      "code": "USD-KGS",
+      "base": "USD",
+      "quote": "KGS",
+      "name": "Dólar Americano/Som Quirguistanês"
+    },
+    {
+      "code": "USD-KHR",
+      "base": "USD",
+      "quote": "KHR",
+      "name": "Dólar Americano/Riel Cambojano"
+    },
+    {
+      "code": "USD-KMF",
+      "base": "USD",
+      "quote": "KMF",
+      "name": "Dólar Americano/Franco Comorense"
+    },
+    {
+      "code": "USD-KRW",
+      "base": "USD",
+      "quote": "KRW",
+      "name": "Dólar Americano/Won Sul-Coreano"
+    },
+    {
+      "code": "USD-KWD",
+      "base": "USD",
+      "quote": "KWD",
+      "name": "Dólar Americano/Dinar Kuwaitiano"
+    },
+    {
+      "code": "USD-KYD",
+      "base": "USD",
+      "quote": "KYD",
+      "name": "Dólar Americano/Dólar das Ilhas Cayman"
+    },
+    {
+      "code": "USD-KZT",
+      "base": "USD",
+      "quote": "KZT",
+      "name": "Dólar Americano/Tengue Cazaquistanês"
+    },
+    {
+      "code": "USD-LAK",
+      "base": "USD",
+      "quote": "LAK",
+      "name": "Dólar Americano/Kip Laosiano"
+    },
+    {
+      "code": "USD-LBP",
+      "base": "USD",
+      "quote": "LBP",
+      "name": "Dólar Americano/Libra Libanesa"
+    },
+    {
+      "code": "USD-LKR",
+      "base": "USD",
+      "quote": "LKR",
+      "name": "Dólar Americano/Rúpia de Sri Lanka"
+    },
+    {
+      "code": "USD-LSL",
+      "base": "USD",
+      "quote": "LSL",
+      "name": "Dólar Americano/Loti do Lesoto"
+    },
+    {
+      "code": "USD-LYD",
+      "base": "USD",
+      "quote": "LYD",
+      "name": "Dólar Americano/Dinar Líbio"
+    },
+    {
+      "code": "USD-MAD",
+      "base": "USD",
+      "quote": "MAD",
+      "name": "Dólar Americano/Dirham Marroquino"
+    },
+    {
+      "code": "USD-MDL",
+      "base": "USD",
+      "quote": "MDL",
+      "name": "Dólar Americano/Leu Moldavo"
+    },
+    {
+      "code": "USD-MGA",
+      "base": "USD",
+      "quote": "MGA",
+      "name": "Dólar Americano/Ariary Madagascarense"
+    },
+    {
+      "code": "USD-MKD",
+      "base": "USD",
+      "quote": "MKD",
+      "name": "Dólar Americano/Denar Macedônio"
+    },
+    {
+      "code": "USD-MMK",
+      "base": "USD",
+      "quote": "MMK",
+      "name": "Dólar Americano/Kyat de Mianmar"
+    },
+    {
+      "code": "USD-MNT",
+      "base": "USD",
+      "quote": "MNT",
+      "name": "Dólar Americano/Mongolian Tugrik"
+    },
+    {
+      "code": "USD-MOP",
+      "base": "USD",
+      "quote": "MOP",
+      "name": "Dólar Americano/Pataca de Macau"
+    },
+    {
+      "code": "USD-MRO",
+      "base": "USD",
+      "quote": "MRO",
+      "name": "Dólar Americano/Ouguiya Mauritana"
+    },
+    {
+      "code": "USD-MUR",
+      "base": "USD",
+      "quote": "MUR",
+      "name": "Dólar Americano/Rúpia Mauriciana"
+    },
+    {
+      "code": "USD-MVR",
+      "base": "USD",
+      "quote": "MVR",
+      "name": "Dólar Americano/Rufiyaa Maldiva"
+    },
+    {
+      "code": "USD-MWK",
+      "base": "USD",
+      "quote": "MWK",
+      "name": "Dólar Americano/Kwacha Malauiana"
+    },
+    {
+      "code": "USD-MXN",
+      "base": "USD",
+      "quote": "MXN",
+      "name": "Dólar Americano/Peso Mexicano"
+    },
+    {
+      "code": "USD-MYR",
+      "base": "USD",
+      "quote": "MYR",
+      "name": "Dólar Americano/Ringgit Malaio"
+    },
+    {
+      "code": "USD-MZN",
+      "base": "USD",
+      "quote": "MZN",
+      "name": "Dólar Americano/Metical de Moçambique"
+    },
+    {
+      "code": "USD-NAD",
+      "base": "USD",
+      "quote": "NAD",
+      "name": "Dólar Americano/Dólar Namíbio"
+    },
+    {
+      "code": "USD-NGN",
+      "base": "USD",
+      "quote": "NGN",
+      "name": "Dólar Americano/Naira Nigeriana"
+    },
+    {
+      "code": "USD-NGNI",
+      "base": "USD",
+      "quote": "NGNI",
+      "name": "Dólar Americano/Naira Nigeriana"
+    },
+    {
+      "code": "USD-NIO",
+      "base": "USD",
+      "quote": "NIO",
+      "name": "Dólar Americano/Córdoba Nicaraguense"
+    },
+    {
+      "code": "USD-NOK",
+      "base": "USD",
+      "quote": "NOK",
+      "name": "Dólar Americano/Coroa Norueguesa"
+    },
+    {
+      "code": "USD-NPR",
+      "base": "USD",
+      "quote": "NPR",
+      "name": "Dólar Americano/Rúpia Nepalesa"
+    },
+    {
+      "code": "USD-NZD",
+      "base": "USD",
+      "quote": "NZD",
+      "name": "Dólar Americano/Dólar Neozelandês"
+    },
+    {
+      "code": "USD-OMR",
+      "base": "USD",
+      "quote": "OMR",
+      "name": "Dólar Americano/Rial Omanense"
+    },
+    {
+      "code": "USD-PAB",
+      "base": "USD",
+      "quote": "PAB",
+      "name": "Dólar Americano/Balboa Panamenho"
+    },
+    {
+      "code": "USD-PEN",
+      "base": "USD",
+      "quote": "PEN",
+      "name": "Dólar Americano/Sol do Peru"
+    },
+    {
+      "code": "USD-PGK",
+      "base": "USD",
+      "quote": "PGK",
+      "name": "Dólar Americano/Kina Papua-Nova Guiné"
+    },
+    {
+      "code": "USD-PHP",
+      "base": "USD",
+      "quote": "PHP",
+      "name": "Dólar Americano/Peso Filipino"
+    },
+    {
+      "code": "USD-PKR",
+      "base": "USD",
+      "quote": "PKR",
+      "name": "Dólar Americano/Rúpia Paquistanesa"
+    },
+    {
+      "code": "USD-PLN",
+      "base": "USD",
+      "quote": "PLN",
+      "name": "Dólar Americano/Zlóti Polonês"
+    },
+    {
+      "code": "USD-PYG",
+      "base": "USD",
+      "quote": "PYG",
+      "name": "Dólar Americano/Guarani Paraguaio"
+    },
+    {
+      "code": "USD-QAR",
+      "base": "USD",
+      "quote": "QAR",
+      "name": "Dólar Americano/Rial Catarense"
+    },
+    {
+      "code": "USD-RON",
+      "base": "USD",
+      "quote": "RON",
+      "name": "Dólar Americano/Leu Romeno"
+    },
+    {
+      "code": "USD-RSD",
+      "base": "USD",
+      "quote": "RSD",
+      "name": "Dólar Americano/Dinar Sérvio"
+    },
+    {
+      "code": "USD-RUB",
+      "base": "USD",
+      "quote": "RUB",
+      "name": "Dólar Americano/Rublo Russo"
+    },
+    {
+      "code": "USD-RWF",
+      "base": "USD",
+      "quote": "RWF",
+      "name": "Dólar Americano/Franco Ruandês"
+    },
+    {
+      "code": "USD-SAR",
+      "base": "USD",
+      "quote": "SAR",
+      "name": "Dólar Americano/Riyal Saudita"
+    },
+    {
+      "code": "USD-SCR",
+      "base": "USD",
+      "quote": "SCR",
+      "name": "Dólar Americano/Rúpias de Seicheles"
+    },
+    {
+      "code": "USD-SDG",
+      "base": "USD",
+      "quote": "SDG",
+      "name": "Dólar Americano/Libra Sudanesa"
+    },
+    {
+      "code": "USD-SEK",
+      "base": "USD",
+      "quote": "SEK",
+      "name": "Dólar Americano/Coroa Sueca"
+    },
+    {
+      "code": "USD-SGD",
+      "base": "USD",
+      "quote": "SGD",
+      "name": "Dólar Americano/Dólar de Cingapura"
+    },
+    {
+      "code": "USD-SOS",
+      "base": "USD",
+      "quote": "SOS",
+      "name": "Dólar Americano/Shilling Somaliano"
+    },
+    {
+      "code": "USD-STD",
+      "base": "USD",
+      "quote": "STD",
+      "name": "Dólar Americano/Dobra São Tomé/Príncipe"
+    },
+    {
+      "code": "USD-SVC",
+      "base": "USD",
+      "quote": "SVC",
+      "name": "Dólar Americano/Colon de El Salvador"
+    },
+    {
+      "code": "USD-SYP",
+      "base": "USD",
+      "quote": "SYP",
+      "name": "Dólar Americano/Libra Síria"
+    },
+    {
+      "code": "USD-SZL",
+      "base": "USD",
+      "quote": "SZL",
+      "name": "Dólar Americano/Lilangeni Suazilandês"
+    },
+    {
+      "code": "USD-THB",
+      "base": "USD",
+      "quote": "THB",
+      "name": "Dólar Americano/Baht Tailandês"
+    },
+    {
+      "code": "USD-TJS",
+      "base": "USD",
+      "quote": "TJS",
+      "name": "Dólar Americano/Somoni do Tajiquistão"
+    },
+    {
+      "code": "USD-TMT",
+      "base": "USD",
+      "quote": "TMT",
+      "name": "Dólar Americano/TMT"
+    },
+    {
+      "code": "USD-TND",
+      "base": "USD",
+      "quote": "TND",
+      "name": "Dólar Americano/Dinar Tunisiano"
+    },
+    {
+      "code": "USD-TRY",
+      "base": "USD",
+      "quote": "TRY",
+      "name": "Dólar Americano/Nova Lira Turca"
+    },
+    {
+      "code": "USD-TTD",
+      "base": "USD",
+      "quote": "TTD",
+      "name": "Dólar Americano/Dólar de Trinidad"
+    },
+    {
+      "code": "USD-TWD",
+      "base": "USD",
+      "quote": "TWD",
+      "name": "Dólar Americano/Dólar Taiuanês"
+    },
+    {
+      "code": "USD-TZS",
+      "base": "USD",
+      "quote": "TZS",
+      "name": "Dólar Americano/Shilling Tanzaniano"
+    },
+    {
+      "code": "USD-UAH",
+      "base": "USD",
+      "quote": "UAH",
+      "name": "Dólar Americano/Hryvinia Ucraniana"
+    },
+    {
+      "code": "USD-UGX",
+      "base": "USD",
+      "quote": "UGX",
+      "name": "Dólar Americano/Shilling Ugandês"
+    },
+    {
+      "code": "USD-UYU",
+      "base": "USD",
+      "quote": "UYU",
+      "name": "Dólar Americano/Peso Uruguaio"
+    },
+    {
+      "code": "USD-UZS",
+      "base": "USD",
+      "quote": "UZS",
+      "name": "Dólar Americano/Som Uzbequistanês"
+    },
+    {
+      "code": "USD-VEF",
+      "base": "USD",
+      "quote": "VEF",
+      "name": "Dólar Americano/Bolívar Venezuelano"
+    },
+    {
+      "code": "USD-VND",
+      "base": "USD",
+      "quote": "VND",
+      "name": "Dólar Americano/Dong Vietnamita"
+    },
+    {
+      "code": "USD-VUV",
+      "base": "USD",
+      "quote": "VUV",
+      "name": "Dólar Americano/Vatu de Vanuatu"
+    },
+    {
+      "code": "USD-XAF",
+      "base": "USD",
+      "quote": "XAF",
+      "name": "Dólar Americano/Franco CFA Central"
+    },
+    {
+      "code": "USD-XCD",
+      "base": "USD",
+      "quote": "XCD",
+      "name": "Dólar Americano/Dólar do Caribe Oriental"
+    },
+    {
+      "code": "USD-XOF",
+      "base": "USD",
+      "quote": "XOF",
+      "name": "Dólar Americano/Franco CFA Ocidental"
+    },
+    {
+      "code": "USD-XPF",
+      "base": "USD",
+      "quote": "XPF",
+      "name": "Dólar Americano/Franco CFP"
+    },
+    {
+      "code": "USD-YER",
+      "base": "USD",
+      "quote": "YER",
+      "name": "Dólar Americano/Riyal Iemenita"
+    },
+    {
+      "code": "USD-ZAR",
+      "base": "USD",
+      "quote": "ZAR",
+      "name": "Dólar Americano/Rand Sul-Africano"
+    },
+    {
+      "code": "USD-ZMK",
+      "base": "USD",
+      "quote": "ZMK",
+      "name": "Dólar Americano/Kwacha Zambiana"
+    },
+    {
+      "code": "USD-ZWL",
+      "base": "USD",
+      "quote": "ZWL",
+      "name": "Dólar Americano/Dólar Zimbabuense"
+    },
+    {
+      "code": "UYU-BRL",
+      "base": "UYU",
+      "quote": "BRL",
+      "name": "Peso Uruguaio/Real Brasileiro"
+    },
+    {
+      "code": "UYU-USD",
+      "base": "UYU",
+      "quote": "USD",
+      "name": "Peso Uruguaio/Dólar Americano"
+    },
+    {
+      "code": "VEF-BRL",
+      "base": "VEF",
+      "quote": "BRL",
+      "name": "Bolívar Venezuelano/Real Brasileiro"
+    },
+    {
+      "code": "VEF-EUR",
+      "base": "VEF",
+      "quote": "EUR",
+      "name": "Bolívar Venezuelano/Euro"
+    },
+    {
+      "code": "VEF-USD",
+      "base": "VEF",
+      "quote": "USD",
+      "name": "Bolívar Venezuelano/Dólar Americano"
+    },
+    {
+      "code": "VND-USD",
+      "base": "VND",
+      "quote": "USD",
+      "name": "Dong Vietnamita/Dólar Americano"
+    },
+    {
+      "code": "XAG-BRL",
+      "base": "XAG",
+      "quote": "BRL",
+      "name": "Prata Spot/Real Brasileiro"
+    },
+    {
+      "code": "XAG-EUR",
+      "base": "XAG",
+      "quote": "EUR",
+      "name": "Prata Spot/Euro"
+    },
+    {
+      "code": "XAG-USD",
+      "base": "XAG",
+      "quote": "USD",
+      "name": "Prata Spot/Dólar Americano"
+    },
+    {
+      "code": "XAGG-EUR",
+      "base": "XAGG",
+      "quote": "EUR",
+      "name": "Prata/Euro"
+    },
+    {
+      "code": "XAGG-USD",
+      "base": "XAGG",
+      "quote": "USD",
+      "name": "Prata/Dólar Americano"
+    },
+    {
+      "code": "XAU-BRL",
+      "base": "XAU",
+      "quote": "BRL",
+      "name": "Ouro/Real Brasileiro"
+    },
+    {
+      "code": "XAU-EUR",
+      "base": "XAU",
+      "quote": "EUR",
+      "name": "Ouro/Euro"
+    },
+    {
+      "code": "XAU-USD",
+      "base": "XAU",
+      "quote": "USD",
+      "name": "Ouro/Dólar Americano"
+    },
+    {
+      "code": "XBR-USD",
+      "base": "XBR",
+      "quote": "USD",
+      "name": "Brent Spot/Dólar Americano"
+    },
+    {
+      "code": "XCD-GBP",
+      "base": "XCD",
+      "quote": "GBP",
+      "name": "Dólar do Caribe Oriental/Libra Esterlina"
+    },
+    {
+      "code": "XCD-USD",
+      "base": "XCD",
+      "quote": "USD",
+      "name": "Dólar do Caribe Oriental/Dólar Americano"
+    },
+    {
+      "code": "XOF-USD",
+      "base": "XOF",
+      "quote": "USD",
+      "name": "Franco CFA Ocidental/Dólar Americano"
+    },
+    {
+      "code": "XPF-EUR",
+      "base": "XPF",
+      "quote": "EUR",
+      "name": "Franco CFP/Euro"
+    },
+    {
+      "code": "XPF-USD",
+      "base": "XPF",
+      "quote": "USD",
+      "name": "Franco CFP/Dólar Americano"
+    },
+    {
+      "code": "XRP-BRL",
+      "base": "XRP",
+      "quote": "BRL",
+      "name": "XRP/Real Brasileiro"
+    },
+    {
+      "code": "XRP-EUR",
+      "base": "XRP",
+      "quote": "EUR",
+      "name": "XRP/Euro"
+    },
+    {
+      "code": "XRP-USD",
+      "base": "XRP",
+      "quote": "USD",
+      "name": "XRP/Dólar Americano"
+    },
+    {
+      "code": "ZAR-BRL",
+      "base": "ZAR",
+      "quote": "BRL",
+      "name": "Rand Sul-Africano/Real Brasileiro"
+    },
+    {
+      "code": "ZAR-EUR",
+      "base": "ZAR",
+      "quote": "EUR",
+      "name": "Rand Sul-Africano/Euro"
+    },
+    {
+      "code": "ZAR-USD",
+      "base": "ZAR",
+      "quote": "USD",
+      "name": "Rand Sul-Africano/Dólar Americano"
+    }
+  ]
+}
